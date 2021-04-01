@@ -1,5 +1,5 @@
 # Csharp-food-delivery-app
-The classes specified in this document are the primary C# classes that are required for implementation of food delivery(truYum :four_leaf_clover:) application.
+The classes specified in this document are the primary C# classes that are required for implementation of food delivery( truYum:four_leaf_clover: ) application.
 # <h2>Model Namespace</h2>
 Following are the real world objects identified for truYum application. Menu Item refers to a menu item available for sale in truYum. Cart will represent customer’s cart to hold the selected menu items.
 - “Com.Cognizant.Truyum.Model” represents the namespace
