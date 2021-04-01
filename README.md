@@ -32,8 +32,7 @@ This namespace contains the list of classes that will code to manage the data fo
 `ICartDao.cs`Add method AddCartItem(long userId, long menuItemId) of return type void in the interface.
 
 `CartDaoCollection.cs`This class manages the data related to Cart of all users of truYum application.
-
-#<h3>Design for View Cart</h3>
+# <h3>Design for View Cart</h3>
 `ICartDao.cs`Add method GetAllCartItems(long userId) of return type void in the interface
 
 `CartEmptyException.cs`Extend this class from System.Exception and include an empty constructor.
